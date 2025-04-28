@@ -1,0 +1,28 @@
+{
+    "projects":[
+        {
+            "title": "farm land 1",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit autem laboriosam soluta quo, ratione magnam dolorum aperiam aliquid eaque exercitationem, mollitia nulla non omnis iure debitis facilis architecto? Libero possimus, dignissimos incidunt aliquam dolores aut deserunt! Eius ea consequuntur, unde cumque doloremque voluptatem minima laudantium, aliquid explicabo deserunt veniam laboriosam optio voluptate eaque soluta at esse? Debitis cum soluta hic totam beatae ratione eos ab et culpa! Quo, soluta ipsa!",
+            "icon": "astro.svg",
+            "tags": ["static-site-generator", "javascript", "frontend"]
+        },
+        {
+            "title": "joputa",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit autem laboriosam soluta quo, ratione magnam dolorum aperiam aliquid eaque exercitationem, mollitia nulla non omnis iure debitis facilis architecto? Libero possimus, dignissimos incidunt aliquam dolores aut deserunt! Eius ea consequuntur, unde cumque doloremque voluptatem minima laudantium, aliquid explicabo deserunt veniam laboriosam optio voluptate eaque soluta at esse? Debitis cum soluta hic totam beatae ratione eos ab et culpa! Quo, soluta ipsa!",
+            "icon": "tailwindcss.svg",
+            "tags": ["css", "framework", "utility-first"]
+        },
+        {
+            "title": "joputa",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit autem laboriosam soluta quo, ratione magnam dolorum aperiam aliquid eaque exercitationem, mollitia nulla non omnis iure debitis facilis architecto? Libero possimus, dignissimos incidunt aliquam dolores aut deserunt! Eius ea consequuntur, unde cumque doloremque voluptatem minima laudantium, aliquid explicabo deserunt veniam laboriosam optio voluptate eaque soluta at esse? Debitis cum soluta hic totam beatae ratione eos ab et culpa! Quo, soluta ipsa!",
+            "icon": "tailwindcss.svg",
+            "tags": ["css", "framework", "utility-first"]
+        },
+        {
+            "title": "joputa",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit autem laboriosam soluta quo, ratione magnam dolorum aperiam aliquid eaque exercitationem, mollitia nulla non omnis iure debitis facilis architecto? Libero possimus, dignissimos incidunt aliquam dolores aut deserunt! Eius ea consequuntur, unde cumque doloremque voluptatem minima laudantium, aliquid explicabo deserunt veniam laboriosam optio voluptate eaque soluta at esse? Debitis cum soluta hic totam beatae ratione eos ab et culpa! Quo, soluta ipsa!",
+            "icon": "tailwindcss.svg",
+            "tags": ["css", "framework", "utility-first"]
+        }
+    ]
+}
